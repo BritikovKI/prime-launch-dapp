@@ -111,3 +111,4 @@ IPSTACK_API_KEY=
 
 When building for production, the build will look for variables in ".env.production".
 
+Some shitty changes
